@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShots
+<img src = "Screenshot 2023-09-12 225741.png">
+<img src = "Screenshot 2023-09-12 225724.png">
+
 
 This project is a starting point for a Flutter application.
 
